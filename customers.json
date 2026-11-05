@@ -1,0 +1,410 @@
+[
+    {
+        "id":  "C001",
+        "name":  "Nguyễn Minh Anh",
+        "email":  "customer@hza.vn",
+        "password":  "user123",
+        "phone":  "0901234567",
+        "address":  "TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C002",
+        "name":  "Nguyễn Hoàng Phúc",
+        "email":  "customer002@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345678",
+        "address":  "10, Quận 1, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C003",
+        "name":  "Trần Thị Bảo Ngọc",
+        "email":  "customer003@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345679",
+        "address":  "11, Quận 3, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C004",
+        "name":  "Lê Minh Khang",
+        "email":  "customer004@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345680",
+        "address":  "12, Thủ Đức, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C005",
+        "name":  "Phạm Thu Hà",
+        "email":  "customer005@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345681",
+        "address":  "13, Quận Hải Châu, Đà Nẵng"
+    },
+    {
+        "id":  "C006",
+        "name":  "Hoàng Gia Huy",
+        "email":  "customer006@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345682",
+        "address":  "14, Quận Ninh Kiều, Cần Thơ"
+    },
+    {
+        "id":  "C007",
+        "name":  "Võ Ngọc Ánh",
+        "email":  "customer007@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345683",
+        "address":  "15, Quận Hoàn Kiếm, Hà Nội"
+    },
+    {
+        "id":  "C008",
+        "name":  "Đặng Quốc Bảo",
+        "email":  "customer008@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345684",
+        "address":  "16, Quận Cầu Giấy, Hà Nội"
+    },
+    {
+        "id":  "C009",
+        "name":  "Bùi Thanh Trúc",
+        "email":  "customer009@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345685",
+        "address":  "17, TP. Biên Hòa, Đồng Nai"
+    },
+    {
+        "id":  "C010",
+        "name":  "Đỗ Nhật Nam",
+        "email":  "customer010@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345686",
+        "address":  "18, TP. Thủ Dầu Một, Bình Dương"
+    },
+    {
+        "id":  "C011",
+        "name":  "Hồ Khánh Linh",
+        "email":  "customer011@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345687",
+        "address":  "19, TP. Nha Trang, Khánh Hòa"
+    },
+    {
+        "id":  "C012",
+        "name":  "Ngô Đức Anh",
+        "email":  "customer012@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345688",
+        "address":  "20, Quận 1, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C013",
+        "name":  "Dương Mỹ Duyên",
+        "email":  "customer013@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345689",
+        "address":  "21, Quận 3, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C014",
+        "name":  "Lý Thành Đạt",
+        "email":  "customer014@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345690",
+        "address":  "22, Thủ Đức, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C015",
+        "name":  "Phan Thảo Vy",
+        "email":  "customer015@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345691",
+        "address":  "23, Quận Hải Châu, Đà Nẵng"
+    },
+    {
+        "id":  "C016",
+        "name":  "Mai Anh Tuấn",
+        "email":  "customer016@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345692",
+        "address":  "24, Quận Ninh Kiều, Cần Thơ"
+    },
+    {
+        "id":  "C017",
+        "name":  "Trịnh Hà My",
+        "email":  "customer017@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345693",
+        "address":  "25, Quận Hoàn Kiếm, Hà Nội"
+    },
+    {
+        "id":  "C018",
+        "name":  "Cao Quang Huy",
+        "email":  "customer018@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345694",
+        "address":  "26, Quận Cầu Giấy, Hà Nội"
+    },
+    {
+        "id":  "C019",
+        "name":  "Vũ Ngọc Diệp",
+        "email":  "customer019@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345695",
+        "address":  "27, TP. Biên Hòa, Đồng Nai"
+    },
+    {
+        "id":  "C020",
+        "name":  "Đinh Gia Bảo",
+        "email":  "customer020@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345696",
+        "address":  "28, TP. Thủ Dầu Một, Bình Dương"
+    },
+    {
+        "id":  "C021",
+        "name":  "Tạ Minh Châu",
+        "email":  "customer021@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345697",
+        "address":  "29, TP. Nha Trang, Khánh Hòa"
+    },
+    {
+        "id":  "C022",
+        "name":  "Nguyễn Thanh Tùng",
+        "email":  "customer022@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345698",
+        "address":  "30, Quận 1, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C023",
+        "name":  "Trần Hoài Phương",
+        "email":  "customer023@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345699",
+        "address":  "31, Quận 3, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C024",
+        "name":  "Lê Quốc Thiên",
+        "email":  "customer024@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345700",
+        "address":  "32, Thủ Đức, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C025",
+        "name":  "Phạm Ngọc Mai",
+        "email":  "customer025@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345701",
+        "address":  "33, Quận Hải Châu, Đà Nẵng"
+    },
+    {
+        "id":  "C026",
+        "name":  "Hoàng Minh Đức",
+        "email":  "customer026@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345702",
+        "address":  "34, Quận Ninh Kiều, Cần Thơ"
+    },
+    {
+        "id":  "C027",
+        "name":  "Võ Thùy Dương",
+        "email":  "customer027@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345703",
+        "address":  "35, Quận Hoàn Kiếm, Hà Nội"
+    },
+    {
+        "id":  "C028",
+        "name":  "Đặng Anh Khoa",
+        "email":  "customer028@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345704",
+        "address":  "36, Quận Cầu Giấy, Hà Nội"
+    },
+    {
+        "id":  "C029",
+        "name":  "Bùi Khánh Vân",
+        "email":  "customer029@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345705",
+        "address":  "37, TP. Biên Hòa, Đồng Nai"
+    },
+    {
+        "id":  "C030",
+        "name":  "Đỗ Thành Công",
+        "email":  "customer030@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345706",
+        "address":  "38, TP. Thủ Dầu Một, Bình Dương"
+    },
+    {
+        "id":  "C031",
+        "name":  "Hồ Bảo Trân",
+        "email":  "customer031@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345707",
+        "address":  "39, TP. Nha Trang, Khánh Hòa"
+    },
+    {
+        "id":  "C032",
+        "name":  "Ngô Tuấn Kiệt",
+        "email":  "customer032@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345708",
+        "address":  "40, Quận 1, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C033",
+        "name":  "Dương Thùy Linh",
+        "email":  "customer033@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345709",
+        "address":  "41, Quận 3, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C034",
+        "name":  "Lý Hoàng Long",
+        "email":  "customer034@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345710",
+        "address":  "42, Thủ Đức, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C035",
+        "name":  "Phan Kim Ngân",
+        "email":  "customer035@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345711",
+        "address":  "43, Quận Hải Châu, Đà Nẵng"
+    },
+    {
+        "id":  "C036",
+        "name":  "Mai Quốc Việt",
+        "email":  "customer036@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345712",
+        "address":  "44, Quận Ninh Kiều, Cần Thơ"
+    },
+    {
+        "id":  "C037",
+        "name":  "Trịnh Minh Thư",
+        "email":  "customer037@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345713",
+        "address":  "45, Quận Hoàn Kiếm, Hà Nội"
+    },
+    {
+        "id":  "C038",
+        "name":  "Cao Nhật Hào",
+        "email":  "customer038@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345714",
+        "address":  "46, Quận Cầu Giấy, Hà Nội"
+    },
+    {
+        "id":  "C039",
+        "name":  "Vũ Thanh Tâm",
+        "email":  "customer039@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345715",
+        "address":  "47, TP. Biên Hòa, Đồng Nai"
+    },
+    {
+        "id":  "C040",
+        "name":  "Đinh Bảo Châu",
+        "email":  "customer040@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345716",
+        "address":  "48, TP. Thủ Dầu Một, Bình Dương"
+    },
+    {
+        "id":  "C041",
+        "name":  "Tạ Đức Minh",
+        "email":  "customer041@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345717",
+        "address":  "49, TP. Nha Trang, Khánh Hòa"
+    },
+    {
+        "id":  "C042",
+        "name":  "Nguyễn Khánh An",
+        "email":  "customer042@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345718",
+        "address":  "50, Quận 1, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C043",
+        "name":  "Trần Gia Hân",
+        "email":  "customer043@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345719",
+        "address":  "51, Quận 3, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C044",
+        "name":  "Lê Phương Uyên",
+        "email":  "customer044@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345720",
+        "address":  "52, Thủ Đức, TP. Hồ Chí Minh"
+    },
+    {
+        "id":  "C045",
+        "name":  "Phạm Tiến Đạt",
+        "email":  "customer045@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345721",
+        "address":  "53, Quận Hải Châu, Đà Nẵng"
+    },
+    {
+        "id":  "C046",
+        "name":  "Hoàng Ngọc Hân",
+        "email":  "customer046@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345722",
+        "address":  "54, Quận Ninh Kiều, Cần Thơ"
+    },
+    {
+        "id":  "C047",
+        "name":  "Võ Minh Quân",
+        "email":  "customer047@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345723",
+        "address":  "55, Quận Hoàn Kiếm, Hà Nội"
+    },
+    {
+        "id":  "C048",
+        "name":  "Đặng Thu Trang",
+        "email":  "customer048@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345724",
+        "address":  "56, Quận Cầu Giấy, Hà Nội"
+    },
+    {
+        "id":  "C049",
+        "name":  "Bùi Quốc Khánh",
+        "email":  "customer049@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345725",
+        "address":  "57, TP. Biên Hòa, Đồng Nai"
+    },
+    {
+        "id":  "C050",
+        "name":  "Đỗ Hà Anh",
+        "email":  "customer050@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345726",
+        "address":  "58, TP. Thủ Dầu Một, Bình Dương"
+    },
+    {
+        "id":  "C051",
+        "name":  "Hồ Minh Nhật",
+        "email":  "customer051@hza.vn",
+        "password":  "user123",
+        "phone":  "0912345727",
+        "address":  "59, TP. Nha Trang, Khánh Hòa"
+    }
+]

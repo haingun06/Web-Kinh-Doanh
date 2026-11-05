@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<reviews>
+  <review>
+    <review_id>R001</review_id>
+    <product_id>1</product_id>
+    <customer_id>C001</customer_id>
+    <customer>Nguyễn Minh Anh</customer>
+    <rating>5</rating>
+    <comment>Sản phẩm đúng mô tả, đóng gói tốt.</comment>
+  </review>
+  <review>
+    <review_id>R002</review_id>
+    <product_id>1</product_id>
+    <customer_id>C001</customer_id>
+    <customer>Nguyễn Minh Anh</customer>
+    <rating>4</rating>
+    <comment>Chất lượng ổn, giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R003</review_id>
+    <product_id>2</product_id>
+    <customer_id>C001</customer_id>
+    <customer>Nguyễn Minh Anh</customer>
+    <rating>5</rating>
+    <comment>Mẫu mã đẹp.</comment>
+  </review>
+  <review>
+    <review_id>R004</review_id>
+    <product_id>1</product_id>
+    <customer_id>C002</customer_id>
+    <customer>Nguyễn Hoàng Phúc</customer>
+    <rating>1</rating>
+    <comment>Sản phẩm đúng mô tả, chất lượng tốt.</comment>
+  </review>
+  <review>
+    <review_id>R005</review_id>
+    <product_id>2</product_id>
+    <customer_id>C003</customer_id>
+    <customer>Trần Thị Bảo Ngọc</customer>
+    <rating>2</rating>
+    <comment>Đóng gói cẩn thận, giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R006</review_id>
+    <product_id>3</product_id>
+    <customer_id>C004</customer_id>
+    <customer>Lê Minh Khang</customer>
+    <rating>3</rating>
+    <comment>Mẫu mã đẹp, sử dụng rất tiện.</comment>
+  </review>
+  <review>
+    <review_id>R007</review_id>
+    <product_id>4</product_id>
+    <customer_id>C005</customer_id>
+    <customer>Phạm Thu Hà</customer>
+    <rating>4</rating>
+    <comment>Chất lượng ổn so với mức giá.</comment>
+  </review>
+  <review>
+    <review_id>R008</review_id>
+    <product_id>5</product_id>
+    <customer_id>C006</customer_id>
+    <customer>Hoàng Gia Huy</customer>
+    <rating>5</rating>
+    <comment>Sản phẩm hoạt động tốt, sẽ ủng hộ lần sau.</comment>
+  </review>
+  <review>
+    <review_id>R009</review_id>
+    <product_id>6</product_id>
+    <customer_id>C007</customer_id>
+    <customer>Võ Ngọc Ánh</customer>
+    <rating>1</rating>
+    <comment>Màu sắc giống hình, rất hài lòng.</comment>
+  </review>
+  <review>
+    <review_id>R010</review_id>
+    <product_id>7</product_id>
+    <customer_id>C008</customer_id>
+    <customer>Đặng Quốc Bảo</customer>
+    <rating>2</rating>
+    <comment>Giao hàng đúng hẹn, sản phẩm nguyên vẹn.</comment>
+  </review>
+  <review>
+    <review_id>R011</review_id>
+    <product_id>8</product_id>
+    <customer_id>C009</customer_id>
+    <customer>Bùi Thanh Trúc</customer>
+    <rating>3</rating>
+    <comment>Thiết kế đẹp và dễ sử dụng.</comment>
+  </review>
+  <review>
+    <review_id>R012</review_id>
+    <product_id>9</product_id>
+    <customer_id>C010</customer_id>
+    <customer>Đỗ Nhật Nam</customer>
+    <rating>4</rating>
+    <comment>Sản phẩm dùng ổn, shop tư vấn nhiệt tình.</comment>
+  </review>
+  <review>
+    <review_id>R013</review_id>
+    <product_id>10</product_id>
+    <customer_id>C011</customer_id>
+    <customer>Hồ Khánh Linh</customer>
+    <rating>5</rating>
+    <comment>Chất lượng chưa như mong đợi nhưng giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R014</review_id>
+    <product_id>11</product_id>
+    <customer_id>C012</customer_id>
+    <customer>Ngô Đức Anh</customer>
+    <rating>1</rating>
+    <comment>Sản phẩm đúng mô tả, chất lượng tốt.</comment>
+  </review>
+  <review>
+    <review_id>R015</review_id>
+    <product_id>12</product_id>
+    <customer_id>C013</customer_id>
+    <customer>Dương Mỹ Duyên</customer>
+    <rating>2</rating>
+    <comment>Đóng gói cẩn thận, giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R016</review_id>
+    <product_id>13</product_id>
+    <customer_id>C014</customer_id>
+    <customer>Lý Thành Đạt</customer>
+    <rating>3</rating>
+    <comment>Mẫu mã đẹp, sử dụng rất tiện.</comment>
+  </review>
+  <review>
+    <review_id>R017</review_id>
+    <product_id>14</product_id>
+    <customer_id>C015</customer_id>
+    <customer>Phan Thảo Vy</customer>
+    <rating>4</rating>
+    <comment>Chất lượng ổn so với mức giá.</comment>
+  </review>
+  <review>
+    <review_id>R018</review_id>
+    <product_id>15</product_id>
+    <customer_id>C016</customer_id>
+    <customer>Mai Anh Tuấn</customer>
+    <rating>5</rating>
+    <comment>Sản phẩm hoạt động tốt, sẽ ủng hộ lần sau.</comment>
+  </review>
+  <review>
+    <review_id>R019</review_id>
+    <product_id>16</product_id>
+    <customer_id>C017</customer_id>
+    <customer>Trịnh Hà My</customer>
+    <rating>1</rating>
+    <comment>Màu sắc giống hình, rất hài lòng.</comment>
+  </review>
+  <review>
+    <review_id>R020</review_id>
+    <product_id>17</product_id>
+    <customer_id>C018</customer_id>
+    <customer>Cao Quang Huy</customer>
+    <rating>2</rating>
+    <comment>Giao hàng đúng hẹn, sản phẩm nguyên vẹn.</comment>
+  </review>
+  <review>
+    <review_id>R021</review_id>
+    <product_id>18</product_id>
+    <customer_id>C019</customer_id>
+    <customer>Vũ Ngọc Diệp</customer>
+    <rating>3</rating>
+    <comment>Thiết kế đẹp và dễ sử dụng.</comment>
+  </review>
+  <review>
+    <review_id>R022</review_id>
+    <product_id>19</product_id>
+    <customer_id>C020</customer_id>
+    <customer>Đinh Gia Bảo</customer>
+    <rating>4</rating>
+    <comment>Sản phẩm dùng ổn, shop tư vấn nhiệt tình.</comment>
+  </review>
+  <review>
+    <review_id>R023</review_id>
+    <product_id>20</product_id>
+    <customer_id>C021</customer_id>
+    <customer>Tạ Minh Châu</customer>
+    <rating>5</rating>
+    <comment>Chất lượng chưa như mong đợi nhưng giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R024</review_id>
+    <product_id>1</product_id>
+    <customer_id>C022</customer_id>
+    <customer>Nguyễn Thanh Tùng</customer>
+    <rating>1</rating>
+    <comment>Sản phẩm đúng mô tả, chất lượng tốt.</comment>
+  </review>
+  <review>
+    <review_id>R025</review_id>
+    <product_id>2</product_id>
+    <customer_id>C023</customer_id>
+    <customer>Trần Hoài Phương</customer>
+    <rating>2</rating>
+    <comment>Đóng gói cẩn thận, giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R026</review_id>
+    <product_id>3</product_id>
+    <customer_id>C024</customer_id>
+    <customer>Lê Quốc Thiên</customer>
+    <rating>3</rating>
+    <comment>Mẫu mã đẹp, sử dụng rất tiện.</comment>
+  </review>
+  <review>
+    <review_id>R027</review_id>
+    <product_id>4</product_id>
+    <customer_id>C025</customer_id>
+    <customer>Phạm Ngọc Mai</customer>
+    <rating>4</rating>
+    <comment>Chất lượng ổn so với mức giá.</comment>
+  </review>
+  <review>
+    <review_id>R028</review_id>
+    <product_id>5</product_id>
+    <customer_id>C026</customer_id>
+    <customer>Hoàng Minh Đức</customer>
+    <rating>5</rating>
+    <comment>Sản phẩm hoạt động tốt, sẽ ủng hộ lần sau.</comment>
+  </review>
+  <review>
+    <review_id>R029</review_id>
+    <product_id>6</product_id>
+    <customer_id>C027</customer_id>
+    <customer>Võ Thùy Dương</customer>
+    <rating>1</rating>
+    <comment>Màu sắc giống hình, rất hài lòng.</comment>
+  </review>
+  <review>
+    <review_id>R030</review_id>
+    <product_id>7</product_id>
+    <customer_id>C028</customer_id>
+    <customer>Đặng Anh Khoa</customer>
+    <rating>2</rating>
+    <comment>Giao hàng đúng hẹn, sản phẩm nguyên vẹn.</comment>
+  </review>
+  <review>
+    <review_id>R031</review_id>
+    <product_id>8</product_id>
+    <customer_id>C029</customer_id>
+    <customer>Bùi Khánh Vân</customer>
+    <rating>3</rating>
+    <comment>Thiết kế đẹp và dễ sử dụng.</comment>
+  </review>
+  <review>
+    <review_id>R032</review_id>
+    <product_id>9</product_id>
+    <customer_id>C030</customer_id>
+    <customer>Đỗ Thành Công</customer>
+    <rating>4</rating>
+    <comment>Sản phẩm dùng ổn, shop tư vấn nhiệt tình.</comment>
+  </review>
+  <review>
+    <review_id>R033</review_id>
+    <product_id>10</product_id>
+    <customer_id>C031</customer_id>
+    <customer>Hồ Bảo Trân</customer>
+    <rating>5</rating>
+    <comment>Chất lượng chưa như mong đợi nhưng giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R034</review_id>
+    <product_id>11</product_id>
+    <customer_id>C032</customer_id>
+    <customer>Ngô Tuấn Kiệt</customer>
+    <rating>1</rating>
+    <comment>Sản phẩm đúng mô tả, chất lượng tốt.</comment>
+  </review>
+  <review>
+    <review_id>R035</review_id>
+    <product_id>12</product_id>
+    <customer_id>C033</customer_id>
+    <customer>Dương Thùy Linh</customer>
+    <rating>2</rating>
+    <comment>Đóng gói cẩn thận, giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R036</review_id>
+    <product_id>13</product_id>
+    <customer_id>C034</customer_id>
+    <customer>Lý Hoàng Long</customer>
+    <rating>3</rating>
+    <comment>Mẫu mã đẹp, sử dụng rất tiện.</comment>
+  </review>
+  <review>
+    <review_id>R037</review_id>
+    <product_id>14</product_id>
+    <customer_id>C035</customer_id>
+    <customer>Phan Kim Ngân</customer>
+    <rating>4</rating>
+    <comment>Chất lượng ổn so với mức giá.</comment>
+  </review>
+  <review>
+    <review_id>R038</review_id>
+    <product_id>15</product_id>
+    <customer_id>C036</customer_id>
+    <customer>Mai Quốc Việt</customer>
+    <rating>5</rating>
+    <comment>Sản phẩm hoạt động tốt, sẽ ủng hộ lần sau.</comment>
+  </review>
+  <review>
+    <review_id>R039</review_id>
+    <product_id>16</product_id>
+    <customer_id>C037</customer_id>
+    <customer>Trịnh Minh Thư</customer>
+    <rating>1</rating>
+    <comment>Màu sắc giống hình, rất hài lòng.</comment>
+  </review>
+  <review>
+    <review_id>R040</review_id>
+    <product_id>17</product_id>
+    <customer_id>C038</customer_id>
+    <customer>Cao Nhật Hào</customer>
+    <rating>2</rating>
+    <comment>Giao hàng đúng hẹn, sản phẩm nguyên vẹn.</comment>
+  </review>
+  <review>
+    <review_id>R041</review_id>
+    <product_id>18</product_id>
+    <customer_id>C039</customer_id>
+    <customer>Vũ Thanh Tâm</customer>
+    <rating>3</rating>
+    <comment>Thiết kế đẹp và dễ sử dụng.</comment>
+  </review>
+  <review>
+    <review_id>R042</review_id>
+    <product_id>19</product_id>
+    <customer_id>C040</customer_id>
+    <customer>Đinh Bảo Châu</customer>
+    <rating>4</rating>
+    <comment>Sản phẩm dùng ổn, shop tư vấn nhiệt tình.</comment>
+  </review>
+  <review>
+    <review_id>R043</review_id>
+    <product_id>20</product_id>
+    <customer_id>C041</customer_id>
+    <customer>Tạ Đức Minh</customer>
+    <rating>5</rating>
+    <comment>Chất lượng chưa như mong đợi nhưng giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R044</review_id>
+    <product_id>1</product_id>
+    <customer_id>C042</customer_id>
+    <customer>Nguyễn Khánh An</customer>
+    <rating>1</rating>
+    <comment>Sản phẩm đúng mô tả, chất lượng tốt.</comment>
+  </review>
+  <review>
+    <review_id>R045</review_id>
+    <product_id>2</product_id>
+    <customer_id>C043</customer_id>
+    <customer>Trần Gia Hân</customer>
+    <rating>2</rating>
+    <comment>Đóng gói cẩn thận, giao hàng nhanh.</comment>
+  </review>
+  <review>
+    <review_id>R046</review_id>
+    <product_id>3</product_id>
+    <customer_id>C044</customer_id>
+    <customer>Lê Phương Uyên</customer>
+    <rating>3</rating>
+    <comment>Mẫu mã đẹp, sử dụng rất tiện.</comment>
+  </review>
+  <review>
+    <review_id>R047</review_id>
+    <product_id>4</product_id>
+    <customer_id>C045</customer_id>
+    <customer>Phạm Tiến Đạt</customer>
+    <rating>4</rating>
+    <comment>Chất lượng ổn so với mức giá.</comment>
+  </review>
+  <review>
+    <review_id>R048</review_id>
+    <product_id>5</product_id>
+    <customer_id>C046</customer_id>
+    <customer>Hoàng Ngọc Hân</customer>
+    <rating>5</rating>
+    <comment>Sản phẩm hoạt động tốt, sẽ ủng hộ lần sau.</comment>
+  </review>
+  <review>
+    <review_id>R049</review_id>
+    <product_id>6</product_id>
+    <customer_id>C047</customer_id>
+    <customer>Võ Minh Quân</customer>
+    <rating>1</rating>
+    <comment>Màu sắc giống hình, rất hài lòng.</comment>
+  </review>
+  <review>
+    <review_id>R050</review_id>
+    <product_id>7</product_id>
+    <customer_id>C048</customer_id>
+    <customer>Đặng Thu Trang</customer>
+    <rating>2</rating>
+    <comment>Giao hàng đúng hẹn, sản phẩm nguyên vẹn.</comment>
+  </review>
+  <review>
+    <review_id>R051</review_id>
+    <product_id>8</product_id>
+    <customer_id>C049</customer_id>
+    <customer>Bùi Quốc Khánh</customer>
+    <rating>3</rating>
+    <comment>Thiết kế đẹp và dễ sử dụng.</comment>
+  </review>
+  <review>
+    <review_id>R052</review_id>
+    <product_id>9</product_id>
+    <customer_id>C050</customer_id>
+    <customer>Đỗ Hà Anh</customer>
+    <rating>4</rating>
+    <comment>Sản phẩm dùng ổn, shop tư vấn nhiệt tình.</comment>
+  </review>
+  <review>
+    <review_id>R053</review_id>
+    <product_id>10</product_id>
+    <customer_id>C051</customer_id>
+    <customer>Hồ Minh Nhật</customer>
+    <rating>5</rating>
+    <comment>Chất lượng chưa như mong đợi nhưng giao hàng nhanh.</comment>
+  </review>
+</reviews>

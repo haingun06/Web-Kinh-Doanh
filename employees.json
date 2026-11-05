@@ -1,0 +1,42 @@
+[
+    {
+        "id":  "E001",
+        "name":  "Hoàng Hà",
+        "email":  "admin@gmail.vn",
+        "password":  "admin123",
+        "department":  "Administration",
+        "phone":  "0900000001"
+    },
+    {
+        "id":  "E002",
+        "name":  "Trần Quốc Huy",
+        "email":  "huy.tran@hza.vn",
+        "password":  "staff123",
+        "department":  "Sales",
+        "phone":  "0900000002"
+    },
+    {
+        "id":  "E003",
+        "name":  "Lê Thị Mai",
+        "email":  "mai.le@hza.vn",
+        "password":  "staff123",
+        "department":  "Customer Service",
+        "phone":  "0900000003"
+    },
+    {
+        "id":  "E004",
+        "name":  "Phạm Minh Tuấn",
+        "email":  "tuan.pham@hza.vn",
+        "password":  "staff123",
+        "department":  "Warehouse",
+        "phone":  "0900000004"
+    },
+    {
+        "id":  "E005",
+        "name":  "Nguyễn Thu Trang",
+        "email":  "trang.nguyen@hza.vn",
+        "password":  "staff123",
+        "department":  "Sales",
+        "phone":  "0900000005"
+    }
+]
