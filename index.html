@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ginger Company - Student Website</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="external.css">
+</head>
+<body>
+  <div class="website">
+    <header class="area-a">
+      <nav class="main-menu" aria-label="Main menu">
+        <button class="menu-item active" data-page="about">About me</button>
+        <button class="menu-item" data-page="books">Books</button>
+        <div class="menu-dropdown">
+          <button class="menu-item" type="button">Style <span aria-hidden="true">▾</span></button>
+          <div class="submenu">
+            <button data-page="inline">Inline Style</button>
+            <button data-page="internal">Internal Style</button>
+            <button data-page="external">External Style</button>
+          </div>
+        </div>
+        <button class="menu-item" id="helpButton" type="button">Help</button>
+      </nav>
+    </header>
+
+    <aside class="area-b" aria-label="Left panel">
+      <div class="side-decoration">B</div>
+      <p>GINGER<br>STUDENT<br>PORTAL</p>
+    </aside>
+
+    <main class="area-c" id="content" aria-live="polite">
+      <!-- Nội dung mặc định About me được tạo bởi script.js -->
+    </main>
+
+    <aside class="area-d" aria-label="Right panel">
+      <div class="side-decoration">D</div>
+      <p>LEARN<br>CREATE<br>GROW</p>
+    </aside>
+
+    <footer class="area-e">
+      <p id="footerMessage">Designed by Student XYZ, today is ABC</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
